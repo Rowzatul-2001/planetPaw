@@ -5,6 +5,6 @@ Dependencies: 1.VS Code.
               2.XAMPP.
               download link: https://www.apachefriends.org/download.html
 
-Screencast Link: https://drive.google.com/file/d/1cdcRk5AfjXEIM_D-LEiOHM7G2EEEpT48/view?usp=sharing
+Screencast Link: https://www.youtube.com/watch?v=IbUFbhwnwf0
 
 Project Report Link: https://drive.google.com/file/d/1fj_xB99M3ol3T8ay4fVvmbF9oR_gD3h5/view?usp=sharing
