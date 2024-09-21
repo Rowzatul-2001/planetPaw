@@ -1,5 +1,14 @@
-Planet Paw
-The necessity for comprehensive animal rescue and welfare se rvices remains critical, as millions of animals suffer from neglect, abuse, and abandonment each year. Existing platform s often fail to integrate comprehensive user engagement, sea mless donation processes, transparency, and broader communit y and environmental activities. This project aims to address these gaps by creating a multifaceted platform that not onl y supports animal rescue operations but also integrates envi ronmental sustainability efforts and community involvement.
+
+# Planet Paw
+The necessity for comprehensive animal rescue and welfare se
+rvices remains  critical, as millions of animals suffer from
+neglect, abuse, and abandonment each year. Existing platform
+s often fail to integrate comprehensive user engagement, sea
+mless donation processes, transparency, and broader communit
+y and environmental activities. This project aims to address
+these gaps by creating a  multifaceted platform that not onl
+y supports animal rescue operations but also integrates envi
+ronmental sustainability efforts and community involvement.
 
 Features
 ● Home Page: The main entry point showcasing our mission and services.
