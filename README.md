@@ -1,5 +1,5 @@
 
-# Planet Paw
+# ☘️ Planet Paw ☘️
 The necessity for comprehensive animal rescue and welfare se
 rvices remains  critical, as millions of animals suffer from
 neglect, abuse, and abandonment each year. Existing platform
@@ -11,7 +11,7 @@ y supports animal rescue operations but also integrates envi
 ronmental sustainability efforts and community involvement.
 
 
-## Features
+## 🌟 Features 
 
 ● Home Page: The main entry point showcasing our mission and services.
 
@@ -24,7 +24,7 @@ ronmental sustainability efforts and community involvement.
 ● Medical Aid: Support for pets needing medical attention.
 
 ● Food Sales: Purchase nutritious food for your pets.
-## Requirements
+## 🌟 Requirements 
 
 1.VS Code.
    download link: https://code.visualstudio.com download
@@ -34,7 +34,7 @@ ronmental sustainability efforts and community involvement.
 
 3.phpMyAdmin for Database
    link: http://localhost/phpmyadmin/
-## Usage
+## 🌟 Usage
 
 1.Ensure that XAMPP is running.
 
@@ -43,7 +43,7 @@ ronmental sustainability efforts and community involvement.
 3.Open the extracted project folder in VS Code.
 
 4.Open phpMyAdmin to manage the database.
-## Additional Requirements
+## 🌟 Additional Requirements
 
  Project final report link: https://drive.google.com/file/d/1fj_xB99M3ol3T8ay4fVvmbF9oR_gD3h5/view?usp=sharing
 
