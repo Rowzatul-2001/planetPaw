@@ -33,7 +33,7 @@ ronmental sustainability efforts and community involvement.
    download link: https://www.apachefriends.org/download.html
 
 3.phpMyAdmin for Database
-   link: http://localhost/phpmyadmin/
+
 ## 🌟 Usage
 
 1.Ensure that XAMPP is running.
