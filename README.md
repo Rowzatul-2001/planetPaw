@@ -1,5 +1,5 @@
 
-# ☘️ Planet Paw ☘️
+# 🐾 Planet Paw ☘️
 The necessity for comprehensive animal rescue and welfare se
 rvices remains  critical, as millions of animals suffer from
 neglect, abuse, and abandonment each year. Existing platform
